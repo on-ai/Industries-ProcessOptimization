@@ -11,3 +11,4 @@ samples:  1000000
 Model Number: 0 metrics_names: ['loss'] Result: 0.026 Model address: <keras.engine.sequential.Sequential object at 0x000002001D7C0DC0>
 Model Number: 1 metrics_names: ['loss'] Result: 0.025 Model address: <keras.engine.sequential.Sequential object at 0x000002001D86B7F0>
 best_result: 0.026 best_model <keras.engine.sequential.Sequential object at 0x000002001D7C0DC0>
+![ANN GraphViz](./pictures/NN_12Layers.jpg "ANN GraphViz")

@@ -15,7 +15,7 @@ The objective of this project is to develop a proof of concept that simulates th
 
 - **Model Improvement - AUC**: Several classification and ensemble models were applied to select best model. The best model and technique are identified in this project.<br>
 <br>
-[![Single Gradient Descent](./pictures/SingleGradientDescent.jpeg "Single Gradient Descent text" )]
+[![Single Gradient Descent](./pictures/SingleGradientDescent.jpg "Single Gradient Descent text" )]
 <img src="./pictures/MultipleGradientDescent-2.jpg" width="600" height="400"><br>
 
 ## Results
